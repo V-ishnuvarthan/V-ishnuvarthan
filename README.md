@@ -22,13 +22,13 @@ Specialized in **Adobe Experience Manager (AEM)**, **Java/JEE technologies**, an
 
 ## 🚀 Key Projects  
 
-### RJ Reynolds – AEM Cloud Transformation  
+### US Based Tobacco Company – AEM As a Cloud Service 
 - Designed a **reusable component library**, reducing development time by **25%**  
 - Enhanced authoring experience using **AEM style systems**, improving content creation efficiency by **30%**  
 - Integrated **internal and external APIs** for real-time content updates  
 - Improved **user engagement by 20%** through optimized UX strategies  
 
-### Caterpillar – Digital Transformation  
+### US Based Heavy Machinery Company – Digital Transformation  
 - Developed **20+ reusable AEM components**, reducing future development efforts by **40%**  
 - Integrated **AEM with Adobe Analytics and Salesforce** for better marketing insights  
 - Implemented **AEM workflows**, cutting approval cycle time by **50%**  
